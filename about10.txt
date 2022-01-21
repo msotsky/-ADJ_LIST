@@ -1,0 +1,2 @@
+This graph is an "inverse star" -- there is a central node (node 0),
+and there is an edge from every other node to the central node.

@@ -1,0 +1,1 @@
+This is a "star" graph, i.e., there is a central node and every edge goes from this central node to some other node.

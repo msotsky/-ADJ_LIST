@@ -1,0 +1,3 @@
+This is a *complete bipartite graph*.  There are 200 nodes in set A, and 241 nodes
+in set B (so 441 nodes in total), every edge goes from a node in A to a node in B,
+and all such possible edges are present.

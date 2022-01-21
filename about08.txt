@@ -1,0 +1,1 @@
+This graph has 500 nodes and the maximum possible number of edges for a graph with no cycles (it's a DAG).

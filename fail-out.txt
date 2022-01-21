@@ -1,0 +1,3 @@
+The algorithm fails since there is a high-out-degree node that points to a cycle.
+It also points to a row of nodes with low out-degree that extends further than the cycle.
+Answer should be 2 but algorithm outputs 1.

@@ -1,0 +1,1 @@
+This is a small graph (15 nodes, 100 edges) that has no cycles.

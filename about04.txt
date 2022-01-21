@@ -1,0 +1,1 @@
+This graph has 500 nodes, and all possible directed edges are present.

@@ -1,0 +1,4 @@
+This is very similar to in01.txt, except that there is an isolated node (node 20),
+and the star has been somewhat corrupted by reversing one of the edges (formerly
+from node 19 to node 15) and then creating a cycle by adding an edge from node 16
+to node 15.

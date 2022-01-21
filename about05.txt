@@ -1,0 +1,1 @@
+This graph has 500 nodes, but only 3 edges.

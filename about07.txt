@@ -1,0 +1,1 @@
+This is a medium-sized graph (500 nodes, 1000 edges) with no cycles.
